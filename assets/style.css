@@ -1,6 +1,7 @@
 
 * {
     box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
@@ -67,6 +68,11 @@
 
 /* portfolio page  */
 
+.repo {
+    text-align: right;
+    margin-left: -20px;
+}
+
 .portfolio-push {
     height: 60px;
 }
@@ -79,7 +85,29 @@
    
 }
 
+
+ .card {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card-header {
+    width: 100%;
+    padding: none;
+    font-size: 20px;
+    text-align: center;
+} 
+
 .card-img-top {
+    max-width: 90%;
+    max-height: auto;
+    position: relative;
+    vertical-align: middle;
+    left: 50%;
+    transform: translate(-50%);
+    /* height: 150px;
+    width: 150px; */
+    object-fit: cover;
     margin-top: 15px;
 }
 
