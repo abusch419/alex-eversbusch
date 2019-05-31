@@ -4,13 +4,13 @@
 * https://abusch419.github.io/wow-portfolio/
 
 
-## Resume
+# Resume
 
 # Alex Eversbusch - abusch419@gmail.com
-### Full Stack Developer 
+### Full Stack Developer
 ### Highly motivated professional with strong communication, interpersonal, and technical skills. Grasps new concepts and ideas quickly. Proven ability in taking projects from concept to implementation in previous role as Landscape Architect.
 
-## Education 
+# Education 
 
 # Georgia Tech | Coding Boot Camp, Atlanta, GA — Full Stack Development Certificate
 ## April 2019 - July 2019
