@@ -1,7 +1,7 @@
 # Alex Eversbusch's Website
 
 * Deployed Link
-* https://abusch419.github.io/wow-portfolio/
+* https://abusch419.github.io/alex-eversbusch/
 
 
 # Resume
