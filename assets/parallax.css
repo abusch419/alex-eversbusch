@@ -183,9 +183,15 @@ h3 {
 #slide1, #slide2 {
     width: 100%;
 }
+.img-profile {
+    max-width: 10rem;
+    max-height: 10rem;
+    border: .5rem solid rgba(255,255,255,.2);
+}
+
 
 #slide1 {
-    background: url('./images/Commons\ Park\ 4.jpg') 50% 0 no-repeat fixed;
+    background:lightslategray;
     color: #fff;
     height: 600px;
     margin: 0;
@@ -203,7 +209,7 @@ h3 {
 }
 
 #slide3 {
-    background: url(../img/slide3.jpg) 50% 0 no-repeat fixed;
+    background: grey;
     color: #fff;
     height: 600px;
     padding: 170px 0 0 0;
