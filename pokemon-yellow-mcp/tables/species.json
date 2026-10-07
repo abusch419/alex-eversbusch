@@ -1,0 +1,762 @@
+{
+ "1": {
+  "name": "RHYDON",
+  "dex": 111
+ },
+ "2": {
+  "name": "KANGASKHAN",
+  "dex": 114
+ },
+ "3": {
+  "name": "NIDORAN♂",
+  "dex": 31
+ },
+ "4": {
+  "name": "CLEFAIRY",
+  "dex": 34
+ },
+ "5": {
+  "name": "SPEAROW",
+  "dex": 20
+ },
+ "6": {
+  "name": "VOLTORB",
+  "dex": 99
+ },
+ "7": {
+  "name": "NIDOKING",
+  "dex": 33
+ },
+ "8": {
+  "name": "SLOWBRO",
+  "dex": 79
+ },
+ "9": {
+  "name": "IVYSAUR",
+  "dex": 1
+ },
+ "10": {
+  "name": "EXEGGUTOR",
+  "dex": 102
+ },
+ "11": {
+  "name": "LICKITUNG",
+  "dex": 107
+ },
+ "12": {
+  "name": "EXEGGCUTE",
+  "dex": 101
+ },
+ "13": {
+  "name": "GRIMER",
+  "dex": 87
+ },
+ "14": {
+  "name": "GENGAR",
+  "dex": 93
+ },
+ "15": {
+  "name": "NIDORAN♀",
+  "dex": 28
+ },
+ "16": {
+  "name": "NIDOQUEEN",
+  "dex": 30
+ },
+ "17": {
+  "name": "CUBONE",
+  "dex": 103
+ },
+ "18": {
+  "name": "RHYHORN",
+  "dex": 110
+ },
+ "19": {
+  "name": "LAPRAS",
+  "dex": 130
+ },
+ "20": {
+  "name": "ARCANINE",
+  "dex": 58
+ },
+ "21": {
+  "name": "MEW",
+  "dex": 150
+ },
+ "22": {
+  "name": "GYARADOS",
+  "dex": 129
+ },
+ "23": {
+  "name": "SHELLDER",
+  "dex": 89
+ },
+ "24": {
+  "name": "TENTACOOL",
+  "dex": 71
+ },
+ "25": {
+  "name": "GASTLY",
+  "dex": 91
+ },
+ "26": {
+  "name": "SCYTHER",
+  "dex": 122
+ },
+ "27": {
+  "name": "STARYU",
+  "dex": 119
+ },
+ "28": {
+  "name": "BLASTOISE",
+  "dex": 8
+ },
+ "29": {
+  "name": "PINSIR",
+  "dex": 126
+ },
+ "30": {
+  "name": "TANGELA",
+  "dex": 113
+ },
+ "31": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "32": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "33": {
+  "name": "GROWLITHE",
+  "dex": 57
+ },
+ "34": {
+  "name": "ONIX",
+  "dex": 94
+ },
+ "35": {
+  "name": "FEAROW",
+  "dex": 21
+ },
+ "36": {
+  "name": "PIDGEY",
+  "dex": 15
+ },
+ "37": {
+  "name": "SLOWPOKE",
+  "dex": 78
+ },
+ "38": {
+  "name": "KADABRA",
+  "dex": 63
+ },
+ "39": {
+  "name": "GRAVELER",
+  "dex": 74
+ },
+ "40": {
+  "name": "CHANSEY",
+  "dex": 112
+ },
+ "41": {
+  "name": "MACHOKE",
+  "dex": 66
+ },
+ "42": {
+  "name": "MR.MIME",
+  "dex": 121
+ },
+ "43": {
+  "name": "HITMONLEE",
+  "dex": 105
+ },
+ "44": {
+  "name": "HITMONCHAN",
+  "dex": 106
+ },
+ "45": {
+  "name": "ARBOK",
+  "dex": 23
+ },
+ "46": {
+  "name": "PARASECT",
+  "dex": 46
+ },
+ "47": {
+  "name": "PSYDUCK",
+  "dex": 53
+ },
+ "48": {
+  "name": "DROWZEE",
+  "dex": 95
+ },
+ "49": {
+  "name": "GOLEM",
+  "dex": 75
+ },
+ "50": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "51": {
+  "name": "MAGMAR",
+  "dex": 125
+ },
+ "52": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "53": {
+  "name": "ELECTABUZZ",
+  "dex": 124
+ },
+ "54": {
+  "name": "MAGNETON",
+  "dex": 81
+ },
+ "55": {
+  "name": "KOFFING",
+  "dex": 108
+ },
+ "56": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "57": {
+  "name": "MANKEY",
+  "dex": 55
+ },
+ "58": {
+  "name": "SEEL",
+  "dex": 85
+ },
+ "59": {
+  "name": "DIGLETT",
+  "dex": 49
+ },
+ "60": {
+  "name": "TAUROS",
+  "dex": 127
+ },
+ "61": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "62": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "63": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "64": {
+  "name": "FARFETCH'D",
+  "dex": 82
+ },
+ "65": {
+  "name": "VENONAT",
+  "dex": 47
+ },
+ "66": {
+  "name": "DRAGONITE",
+  "dex": 148
+ },
+ "67": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "68": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "69": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "70": {
+  "name": "DODUO",
+  "dex": 83
+ },
+ "71": {
+  "name": "POLIWAG",
+  "dex": 59
+ },
+ "72": {
+  "name": "JYNX",
+  "dex": 123
+ },
+ "73": {
+  "name": "MOLTRES",
+  "dex": 145
+ },
+ "74": {
+  "name": "ARTICUNO",
+  "dex": 143
+ },
+ "75": {
+  "name": "ZAPDOS",
+  "dex": 144
+ },
+ "76": {
+  "name": "DITTO",
+  "dex": 131
+ },
+ "77": {
+  "name": "MEOWTH",
+  "dex": 51
+ },
+ "78": {
+  "name": "KRABBY",
+  "dex": 97
+ },
+ "79": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "80": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "81": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "82": {
+  "name": "VULPIX",
+  "dex": 36
+ },
+ "83": {
+  "name": "NINETALES",
+  "dex": 37
+ },
+ "84": {
+  "name": "PIKACHU",
+  "dex": 24
+ },
+ "85": {
+  "name": "RAICHU",
+  "dex": 25
+ },
+ "86": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "87": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "88": {
+  "name": "DRATINI",
+  "dex": 146
+ },
+ "89": {
+  "name": "DRAGONAIR",
+  "dex": 147
+ },
+ "90": {
+  "name": "KABUTO",
+  "dex": 139
+ },
+ "91": {
+  "name": "KABUTOPS",
+  "dex": 140
+ },
+ "92": {
+  "name": "HORSEA",
+  "dex": 115
+ },
+ "93": {
+  "name": "SEADRA",
+  "dex": 116
+ },
+ "94": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "95": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "96": {
+  "name": "SANDSHREW",
+  "dex": 26
+ },
+ "97": {
+  "name": "SANDSLASH",
+  "dex": 27
+ },
+ "98": {
+  "name": "OMANYTE",
+  "dex": 137
+ },
+ "99": {
+  "name": "OMASTAR",
+  "dex": 138
+ },
+ "100": {
+  "name": "JIGGLYPUFF",
+  "dex": 38
+ },
+ "101": {
+  "name": "WIGGLYTUFF",
+  "dex": 39
+ },
+ "102": {
+  "name": "EEVEE",
+  "dex": 132
+ },
+ "103": {
+  "name": "FLAREON",
+  "dex": 135
+ },
+ "104": {
+  "name": "JOLTEON",
+  "dex": 134
+ },
+ "105": {
+  "name": "VAPOREON",
+  "dex": 133
+ },
+ "106": {
+  "name": "MACHOP",
+  "dex": 65
+ },
+ "107": {
+  "name": "ZUBAT",
+  "dex": 40
+ },
+ "108": {
+  "name": "EKANS",
+  "dex": 22
+ },
+ "109": {
+  "name": "PARAS",
+  "dex": 45
+ },
+ "110": {
+  "name": "POLIWHIRL",
+  "dex": 60
+ },
+ "111": {
+  "name": "POLIWRATH",
+  "dex": 61
+ },
+ "112": {
+  "name": "WEEDLE",
+  "dex": 12
+ },
+ "113": {
+  "name": "KAKUNA",
+  "dex": 13
+ },
+ "114": {
+  "name": "BEEDRILL",
+  "dex": 14
+ },
+ "115": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "116": {
+  "name": "DODRIO",
+  "dex": 84
+ },
+ "117": {
+  "name": "PRIMEAPE",
+  "dex": 56
+ },
+ "118": {
+  "name": "DUGTRIO",
+  "dex": 50
+ },
+ "119": {
+  "name": "VENOMOTH",
+  "dex": 48
+ },
+ "120": {
+  "name": "DEWGONG",
+  "dex": 86
+ },
+ "121": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "122": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "123": {
+  "name": "CATERPIE",
+  "dex": 9
+ },
+ "124": {
+  "name": "METAPOD",
+  "dex": 10
+ },
+ "125": {
+  "name": "BUTTERFREE",
+  "dex": 11
+ },
+ "126": {
+  "name": "MACHAMP",
+  "dex": 67
+ },
+ "127": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "128": {
+  "name": "GOLDUCK",
+  "dex": 54
+ },
+ "129": {
+  "name": "HYPNO",
+  "dex": 96
+ },
+ "130": {
+  "name": "GOLBAT",
+  "dex": 41
+ },
+ "131": {
+  "name": "MEWTWO",
+  "dex": 149
+ },
+ "132": {
+  "name": "SNORLAX",
+  "dex": 142
+ },
+ "133": {
+  "name": "MAGIKARP",
+  "dex": 128
+ },
+ "134": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "135": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "136": {
+  "name": "MUK",
+  "dex": 88
+ },
+ "137": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "138": {
+  "name": "KINGLER",
+  "dex": 98
+ },
+ "139": {
+  "name": "CLOYSTER",
+  "dex": 90
+ },
+ "140": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "141": {
+  "name": "ELECTRODE",
+  "dex": 100
+ },
+ "142": {
+  "name": "CLEFABLE",
+  "dex": 35
+ },
+ "143": {
+  "name": "WEEZING",
+  "dex": 109
+ },
+ "144": {
+  "name": "PERSIAN",
+  "dex": 52
+ },
+ "145": {
+  "name": "MAROWAK",
+  "dex": 104
+ },
+ "146": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "147": {
+  "name": "HAUNTER",
+  "dex": 92
+ },
+ "148": {
+  "name": "ABRA",
+  "dex": 62
+ },
+ "149": {
+  "name": "ALAKAZAM",
+  "dex": 64
+ },
+ "150": {
+  "name": "PIDGEOTTO",
+  "dex": 16
+ },
+ "151": {
+  "name": "PIDGEOT",
+  "dex": 17
+ },
+ "152": {
+  "name": "STARMIE",
+  "dex": 120
+ },
+ "153": {
+  "name": "BULBASAUR",
+  "dex": 0
+ },
+ "154": {
+  "name": "VENUSAUR",
+  "dex": 2
+ },
+ "155": {
+  "name": "TENTACRUEL",
+  "dex": 72
+ },
+ "156": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "157": {
+  "name": "GOLDEEN",
+  "dex": 117
+ },
+ "158": {
+  "name": "SEAKING",
+  "dex": 118
+ },
+ "159": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "160": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "161": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "162": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "163": {
+  "name": "PONYTA",
+  "dex": 76
+ },
+ "164": {
+  "name": "RAPIDASH",
+  "dex": 77
+ },
+ "165": {
+  "name": "RATTATA",
+  "dex": 18
+ },
+ "166": {
+  "name": "RATICATE",
+  "dex": 19
+ },
+ "167": {
+  "name": "NIDORINO",
+  "dex": 32
+ },
+ "168": {
+  "name": "NIDORINA",
+  "dex": 29
+ },
+ "169": {
+  "name": "GEODUDE",
+  "dex": 73
+ },
+ "170": {
+  "name": "PORYGON",
+  "dex": 136
+ },
+ "171": {
+  "name": "AERODACTYL",
+  "dex": 141
+ },
+ "172": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "173": {
+  "name": "MAGNEMITE",
+  "dex": 80
+ },
+ "174": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "175": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "176": {
+  "name": "CHARMANDER",
+  "dex": 3
+ },
+ "177": {
+  "name": "SQUIRTLE",
+  "dex": 6
+ },
+ "178": {
+  "name": "CHARMELEON",
+  "dex": 4
+ },
+ "179": {
+  "name": "WARTORTLE",
+  "dex": 7
+ },
+ "180": {
+  "name": "CHARIZARD",
+  "dex": 5
+ },
+ "181": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "182": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "183": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "184": {
+  "name": "MISSINGNO.",
+  "dex": 0
+ },
+ "185": {
+  "name": "ODDISH",
+  "dex": 42
+ },
+ "186": {
+  "name": "GLOOM",
+  "dex": 43
+ },
+ "187": {
+  "name": "VILEPLUME",
+  "dex": 44
+ },
+ "188": {
+  "name": "BELLSPROUT",
+  "dex": 68
+ },
+ "189": {
+  "name": "WEEPINBELL",
+  "dex": 69
+ },
+ "190": {
+  "name": "VICTREEBEL",
+  "dex": 70
+ }
+}
